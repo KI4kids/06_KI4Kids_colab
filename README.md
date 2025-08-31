@@ -14,7 +14,7 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17u7JxC20rs9l_aWTsUefu0qoNqipPFDl#scrollTo=pLOtcmCCskUZ)
 
-![pic](02_zahl.png)
+![pic](pic/02_zahl.png)
 
 
 ---
@@ -23,7 +23,7 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T6xToOf2zKjA_DJ_amUMr2LKhr6BrMla)
 
-![pic](03_cam.png)
+![pic](pic/03_cam.png)
 
 ---
 
@@ -31,7 +31,7 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iop_WLfTdUJdT5mSJh2jNMHhPY-kBcCd)
 
-![pic](04_object.png)
+![pic](pic/04_object.png)
 
 
 
@@ -41,9 +41,9 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mr5insh6MKAwo2-X6kS2_9KcXNEc8Ika)
 
-![pic](05_bus.png)
+![pic](pic/05_bus.png)
 
-![pic](05_zidane.png)
+![pic](pic/05_zidane.png)
 
 ---
 
@@ -51,9 +51,9 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10C1WYT4ihw2XniYTTz1WffMaAQf2JmPX)
 
-![pic](06_cafe.png)
+![pic](pic/06_cafe.png)
 
-![pic](06_imcafe.png)
+![pic](pic/06_imcafe.png)
 
 ---
 
@@ -61,7 +61,7 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vra-7FkldjZP4R6JZjTngc46soY88_-H)
 
-![pic](07_klasse.png)
+![pic](pic/07_klasse.png)
 
 ---
 
@@ -69,7 +69,7 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCVC96UW2-8FdpA8_UtgNGcmuG2lNiKp)
 
-![pic](08_bike.png)
+![pic](pic/08_bike.png)
 
 
 
@@ -78,14 +78,14 @@ Google Colab Programme
 ### helmet_control
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJEdBiM8s3yakXsJowU9Cyeq5lDoiVag#scrollTo=VgmkShF8ahwv)
 
-![pic](09_helmet.png)
+![pic](pic/09_helmet.png)
 
 ---
 ### geo_USB_Cam_detect
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fxDpa0VVTiNYGR99_vEozw2xuA1kkyBP#scrollTo=qZ8OZeALCqOz)
 
-![pic](10_geo.png)
+![pic](pic/10_geo.png)
 
 ---
 --- 
