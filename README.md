@@ -26,11 +26,8 @@ Google Colab Programme
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iop_WLfTdUJdT5mSJh2jNMHhPY-kBcCd)
 
----
 
-### Bildtest_Zidane-Ancelotti
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mekc_Q2tXaHvM6xq_JHTkoSL8JU99nP7)
 
 ---
 ### Bildtest_Bus-Zidane-Ancelotti
