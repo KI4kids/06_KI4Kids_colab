@@ -48,12 +48,6 @@ Google Colab Programme
 
 ---
 
-### yolov5_Bildtest
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BiqIQYJ3JlkIGAqVF5yaSNEqBw9H1hE8)
-
----
-
 ### countbikepng
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCVC96UW2-8FdpA8_UtgNGcmuG2lNiKp)
