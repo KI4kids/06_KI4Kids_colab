@@ -63,7 +63,7 @@ Google Colab Programme
 
 ---
 
-### helmet_YOLOv8
+### helmet_control
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJEdBiM8s3yakXsJowU9Cyeq5lDoiVag#scrollTo=VgmkShF8ahwv)
 
 ---
