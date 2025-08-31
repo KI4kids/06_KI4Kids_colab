@@ -67,5 +67,12 @@ Google Colab Programme
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJEdBiM8s3yakXsJowU9Cyeq5lDoiVag#scrollTo=VgmkShF8ahwv)
 
 ---
+### geo_USB_Cam_detect
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fxDpa0VVTiNYGR99_vEozw2xuA1kkyBP#scrollTo=qZ8OZeALCqOz)
+
+
+
+---
 --- 
 
