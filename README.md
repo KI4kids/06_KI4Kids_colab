@@ -57,6 +57,12 @@ Google Colab Programme
 
 ---
 
+### Facedetection_single-person
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DtwjOQWl8N34JyUxtT3rPST7t50pBj1n#scrollTo=LX67m8ihah9F)
+
+![pic](pic/13_single-person.png)
+
 ### Facedetection_Klasse
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vra-7FkldjZP4R6JZjTngc46soY88_-H)
