@@ -65,11 +65,11 @@ Google Colab Programme
 
 ---
 
-### countbikepng
+### bikecount
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCVC96UW2-8FdpA8_UtgNGcmuG2lNiKp)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13OQHBHFODo9eVTRC3TgA0A0XpkkcMhBY#scrollTo=avmj2aB8OqTh)
 
-![pic](pic/08_bike.png)
+![pic](pic/08_bikecount.png)
 
 
 
