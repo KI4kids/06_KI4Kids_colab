@@ -1,3 +1,13 @@
+<a name="oben"></a>
+
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/KI4kids/06_KI4Kids_colab/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/KI4kids//06_KI4Kids_colab/discussions)|[:grey_question:WiKi](https://github.com/KI4kids/06_KI4Kids_colab/blob/main/wiki.md)|
+|--|--|--|
+| | | | 
+| <a href="https://github.com/KI4kids//06_KI4Kids_colab/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/KI4kids//06_KI4Kids_colab/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/KI4kids/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+
+
 # 06_KI4Kids_colab
 Google Colab Programme
 
@@ -104,4 +114,12 @@ Google Colab Programme
 
 ---
 --- 
+
+
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
+
+---
 
