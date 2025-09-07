@@ -110,7 +110,7 @@
 ---
 ### Street view
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hCz69bIKugZZb9PpAae5zpF8g4wmwE2v#scrollTo=f4qv6P8g_7jo)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gsi29sNdm4Ik-GEtDyEM8CsUo1eAG12X)
 
 ![pic](pic/11_street.png)
 
