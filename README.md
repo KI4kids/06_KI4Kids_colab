@@ -121,7 +121,7 @@
 
 ![pic](pic/Jogger2.png)
 
-![pic](pic/Ergebnis.png)
+![pic](pic/Ergebnis.jpg)
 
 ---
 --- 
