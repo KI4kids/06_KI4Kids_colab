@@ -131,7 +131,7 @@
 
 ![pic](pic/16_ceuro.png)
 
-![pic](pic/16_euro.jpg)
+![pic](pic/16_euro.png)
 
 ---
 --- 
