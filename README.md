@@ -123,6 +123,16 @@
 
 ![pic](pic/Ergebnis.jpg)
 
+
+---
+## Euro Münzen erkennen
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g-b9hy5xtbi2DtKT2sFAKSrdVz6us_af#scrollTo=Pu7DJsIywd4c)
+
+![pic](pic/16_ceuro.png)
+
+![pic](pic/16_euro.jpg)
+
 ---
 --- 
 
